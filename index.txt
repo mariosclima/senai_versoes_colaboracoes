@@ -1,0 +1,7 @@
+criar um arquivo index.txt no repositório local, copiar e colar as linhas de código indicadas abaixo:
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+   <H1> TÍTULO1 </H1>
+</BODY>
+</HTML>
